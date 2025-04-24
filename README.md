@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Jashim Rana Ebu](github.com/Jashim-Rana-Ebu)
 - 👀 I’m interested in Make Money Online
 - 📫 How to reach me: [Telegram](t.me/JashimRanaEbu) @JashimRanaEbu
-- 🌱 I’m currently learning Python Programming & Ai
+- 🌱 I’m currently learning: Python Programming & Ai-Artificial Intelligence.
 - ⚡ Fun fact: I want to keep My Talent a Secret.
 <!-- Snake Animation -->
 <div align="left">
