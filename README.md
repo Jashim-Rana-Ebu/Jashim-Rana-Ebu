@@ -8,22 +8,14 @@
 </div>
 
 
-
 <!-- Snake Animation -->
-<div align="center">
+<div align="left">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
-
-
 <!-- Visit Counter -->
-<div align="center">
+<div align="left">
   
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
-
-<!---
-Jashim-Rana-Ebu/Jashim-Rana-Ebu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
